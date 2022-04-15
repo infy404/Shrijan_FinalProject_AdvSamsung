@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">FinalProject</string>
+
+    <string name="bt_on"> On </string>
+    <string name="bt_off"> Off </string>
+    <string name="bt_discover">Discover</string>
+    <string name="bt_paired"> Paired Devices</string>
+
 </resources>
