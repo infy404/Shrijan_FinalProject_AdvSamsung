@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">FinalProject</string>
 
+    <string name="btn_buy"> Buy Now </string>
+
     <string name="bt_on"> On </string>
     <string name="bt_off"> Off </string>
     <string name="bt_discover">Discover</string>
