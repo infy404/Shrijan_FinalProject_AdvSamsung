@@ -28,6 +28,7 @@ class BluetoothActivity : AppCompatActivity() {
         //Updating the status of the bluetooth
         if(bAdapter == null){
             findViewById<TextView>(R.id.btStatusTV).text = "Bluetooth is not available"
+            return;
         }
         else{
             findViewById<TextView>(R.id.btStatusTV).text = "Bluetooth is available"
